@@ -7,3 +7,4 @@ Data sources:
 Hours available: Derived from Work IQ analysis of calendar (focus time, meeting load)
 Learning style: Inferred from historical L&D engagement patterns
 Confidence level: Based on past skill assessments and product mastery scores
+[This synthetic data simulates what those systems would return in production.]
